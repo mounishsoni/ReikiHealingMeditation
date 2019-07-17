@@ -9,3 +9,14 @@
 .table-image {
 	width: 100px;
 }
+
+.reiki-rate {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.card:hover {
+	box-shadow: 2px 2px 8px #ccc;
+}
