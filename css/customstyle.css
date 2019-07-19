@@ -28,12 +28,11 @@
 }
 
 .reiki-summary {
-	padding: 0 8rem;
+	margin: 0 4rem;
 	margin-bottom: 0.5rem;
 }
 
 .reiki-description {
 	width: 50%;
 	margin: auto;
-	padding: 1rem 0 3rem 0;
 }
