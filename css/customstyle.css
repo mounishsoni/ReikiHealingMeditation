@@ -1,7 +1,6 @@
 
 .logo {
 	max-width: 4rem;
-	margin-top: 9rem;
 }
 
 
@@ -26,4 +25,15 @@
 
 .card:hover {
 	box-shadow: 2px 2px 8px #ccc;
+}
+
+.reiki-summary {
+	padding: 0 8rem;
+	margin-bottom: 0.5rem;
+}
+
+.reiki-description {
+	width: 50%;
+	margin: auto;
+	padding: 1rem 0 3rem 0;
 }
