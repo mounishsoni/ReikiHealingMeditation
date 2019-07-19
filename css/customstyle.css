@@ -28,11 +28,15 @@
 }
 
 .reiki-summary {
-	margin: 0 4rem;
 	margin-bottom: 0.5rem;
 }
 
 .reiki-description {
-	width: 50%;
+	width: 80%;
 	margin: auto;
+}
+
+
+.reiki-description:last-child {
+	margin-bottom: 3rem;
 }
