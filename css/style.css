@@ -989,7 +989,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .copyright:hover {
-  color: #999999;
+  text-decoration-color: #999999;
 }
 
 #footer .credits {
