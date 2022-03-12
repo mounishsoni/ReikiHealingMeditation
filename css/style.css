@@ -66,11 +66,11 @@ span {
   transition: background 0.5s;
 }
 
-#services .box {
+#certifications .box {
   height: 460px;
 }
 
-#services .box:hover {
+#certifications .box:hover {
   box-shadow: 0px 2px 6px #888888;
 }
 
@@ -607,15 +607,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
-/* Services Section
+/* certifications Section
 --------------------------------*/
-#services {
+#certifications {
   background: #fff;
   background-size: cover;
   padding: 80px 0 60px 0;
 }
 
-#services .box {
+#certifications .box {
   padding: 50px 20px;
   margin-bottom: 50px;
   text-align: center;
@@ -625,7 +625,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fafafa;
 }
 
-#services .icon {
+#certifications .icon {
   position: absolute;
   top: -36px;
   left: calc(50% - 36px);
@@ -642,71 +642,71 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #2dc997;
 }
 
-#services .icon a {
+#certifications .icon a {
   display: inline-block;
 }
 
-#services .icon i {
+#certifications .icon i {
   color: #fff;
   font-size: 24px;
 }
 
-#services .box:hover .icon {
+#certifications .box:hover .icon {
   background: #fff;
   border: 2px solid #2dc997;
 }
 
-#services .box:hover .icon i {
+#certifications .box:hover .icon i {
   color: #2dc997;
 }
 
-#services .box:hover .icon a {
+#certifications .box:hover .icon a {
   color: #2dc997;
 }
 
-#services .title {
+#certifications .title {
   font-weight: 700;
   font-size: 18px;
   margin-bottom: 15px;
   text-transform: uppercase;
 }
 
-#services .title a {
+#certifications .title a {
   color: #111;
 }
 
-#services .description {
+#certifications .description {
   font-size: 14px;
   line-height: 24px;
 }
 
 /* Call To Action Section
 --------------------------------*/
-#call-to-action {
+#crystal {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/call-to-action-bg.jpg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
 
-#call-to-action .cta-title {
+#crystal .cta-title {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
 }
 
-#call-to-action .cta-text {
+#crystal .cta-text {
   color: #fff;
 }
 
 @media (min-width: 769px) {
-  #call-to-action .cta-btn-container {
+  #crystal .cta-btn-container {
     display: flex;
     align-items: center;
     justify-content: flex-end;
   }
 }
 
-#call-to-action .cta-btn {
+#crystal .cta-btn {
   font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
@@ -721,7 +721,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
-#call-to-action .cta-btn:hover {
+#crystal .cta-btn:hover {
   background: #2dc997;
   border: 2px solid #2dc997;
 }
@@ -817,53 +817,53 @@ body.mobile-nav-active #mobile-nav-toggle {
   top: -30px;
 }
 
-/* Team Section
+/* details-crystal Section
 --------------------------------*/
-#team {
+#details-crystal {
   background: #fff;
   padding: 80px 0 60px 0;
 }
 
-#team .member {
+#details-crystal .member {
   text-align: center;
   margin-bottom: 20px;
 }
 
-#team .member .pic {
+#details-crystal .member .pic {
   margin-bottom: 15px;
   overflow: hidden;
   height: 260px;
 }
 
-#team .member .pic img {
+#details-crystal .member .pic img {
   max-width: 100%;
 }
 
-#team .member h4 {
+#details-crystal .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
 }
 
-#team .member span {
+#details-crystal .member span {
   font-style: italic;
   display: block;
   font-size: 13px;
 }
 
-#team .member .social {
+#details-crystal .member .social {
   margin-top: 15px;
 }
 
-#team .member .social a {
+#details-crystal .member .social a {
   color: #b3b3b3;
 }
 
-#team .member .social a:hover {
+#details-crystal .member .social a:hover {
   color: #2dc997;
 }
 
-#team .member .social i {
+#details-crystal .member .social i {
   font-size: 18px;
   margin: 0 2px;
 }
